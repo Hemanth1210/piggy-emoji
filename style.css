@@ -1,0 +1,91 @@
+.face{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    background-color: pink;
+    border-radius: 800px ;
+    margin:-10px;
+    margin-top: 10px;
+    margin-left: -30px;
+}
+.ear1{
+    border: 1px solid black;
+    height: 90px;
+    width: 60px;
+    background-color: pink;
+    border-radius: 30px ;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+.ear2{
+    border: 1px solid black;
+    height: 90px;
+    width: 60px;
+    background-color: pink;
+    border-radius: 30px ;
+    margin-top: -9px;
+    margin-left: -190px;   
+}
+.eye1{
+    border: 1px solid white;
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 30px ;
+    margin-left:-10px;
+    margin: 60px;
+}
+.pupil1{
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    background-color:black;
+    border-radius: 30px ;
+    margin: 10px;
+}
+.eye2{
+    border: 1px solid white;
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 30px ;
+    margin-left:-10px;
+    margin: 185px;
+    margin-top: -110px;
+}
+.pupil2{
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    background-color:black;
+    border-radius: 30px ;
+    margin: 10px;
+}
+.nose{
+    border: 1px solid red;
+    height: 50px;
+    width: 100px;
+    background-color: red;
+    border-radius: 30px ;
+    margin: 100px;
+    margin-top: -150px;
+}
+.nostril1{
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    background-color:black;
+    border-radius: 30px ;
+    margin :10px; 
+}
+.nostril2{
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+    background-color:black;
+    border-radius: 30px ;
+    margin: -40px;
+    margin-left: 58px;
+    
+}
+
